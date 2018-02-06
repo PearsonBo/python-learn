@@ -135,10 +135,24 @@
 # print(s[1:10:2])
 
 # 字符串转换工具
-print(int("11"))
-print(str(11))
-print(ord('a'))
-print(chr(97))
+# print(int("11"))
+# print(str(11))
+# print(ord('a'))
+# print(chr(97))
+
+# 另类字符串拼接
+# name = "hu" \
+#     "oo"
+# print(name)
+# print("this is %s %d" % ("aa", 1))
+# print("%(name1)d---%(name2)s" % {"name1":1, "name2":"sss"})
+
+
+
+
+
+
+
 
 
 
